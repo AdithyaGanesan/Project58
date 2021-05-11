@@ -1,0 +1,50 @@
+body {
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(254,3,3,1) 100%, rgba(0,212,255,1) 100%);
+  color: white;
+  background-repeat: no-repeat;
+
+  
+}
+title {
+    font-family: 'Roboto Mono', monospace;
+}
+#bio{
+  padding:20px;
+  font-size:18;
+  text-align:center;
+}
+h1 {
+  text-shadow:2px 2px #F8BDO;
+  font-size:20px;
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top:10px;
+    right:30px;
+    cursor:pointer;
+    color:black;
+    
+    
+}
+.limw:hover{
+    color: aqua;
+    font-size:20px;
+}
+.lifh:hover{
+    color: aqua;
+    font-size:20px;
+}
+.limi:hover{
+    color: aqua;
+    font-size:20px;
+}
+.lic:hover{
+    color: aqua;
+    font-size:20px;
+}
+.lia:hover{
+    color: aqua;
+    font-size:20px;
+}
